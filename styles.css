@@ -16,6 +16,7 @@ body {
 
   flex-wrap: wrap;
   font-family: sans-serif;
+  display:flex;
 }
 
 .grid img {
